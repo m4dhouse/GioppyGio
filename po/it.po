@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GioppyGio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-22 11:48+0200\n"
+"PO-Revision-Date: 2021-11-22 08:48+0300\n"
+"Last-Translator: Madhouse\n"
+"Language-Team: Madhouse\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Exit"
+msgstr "Uscire"
+
+msgid "1) Check the Lan or Wifi connection\n\n2) Check your internet connection\n\n3) Reopen GioppyGio Panel"
+msgstr "1) Controlla la connessione Lan o Wifi\n\n2) Controlla la tua connessione internet\n\n3) Riapri il plugin GioppyGio"
+
+msgid "* Remember to restart enigma2"
+msgstr "* Ricordati di riavviare enigma2"
+
+msgid "If there is an update, run it!"
+msgstr "Se è presente un aggiornamento, eseguilo!"
+
+msgid "%s: Not Available"
+msgstr "%s: Non disponibile"
+
+msgid "%s: %s, in use: %s%%"
+msgstr "%s: %s, in uso: %s%%"
+
+msgid "%s: %s Free: %s Used: %s (%s%%)"
+msgstr "%s: %s Libera: %s Usata: %s (%s%%)"
+
+msgid "%s: %s Used: %s Free: %s"
+msgstr "%s: %s Usata: %s Libera: %s"
+
+msgid "Installed list:"
+msgstr "Elenco installato:"
+
+msgid "Settings & Picons V.%s by GioppyGio"
+msgstr "Settings e Picons V.%s by GioppyGio"
+
+msgid "Picons DTT Italia only in 220x132 and 417x250 format!"
+msgstr "Picons DTT Italia solo nel formato 220x132 e 417x250!"
+
+msgid "Install update..."
+msgstr "Installo aggiornamento"
+
+msgid "\ninstalled!\n\nDo you want to download the Epg?\nThe download takes place in the background."
+msgstr "\ninstallato!\n\nVuoi effettuare il download degli Epg?\n\nIl download avviene in background."
+
+msgid "Do you want to download the Epg?\nThe download takes place in the background."
+msgstr "Vuoi effettuare il download degli Epg?\n\nIl download avviene in background."
+
+msgid "Install Epg Import"
+msgstr "Installo Epg Import"
+
+msgid "Do you want Restart GUI now ?"
+msgstr "Vuoi riavviare la GUI?"
+
+msgid "Epg Importer not found! Do you want to install it?"
+msgstr "Epg Import non trovato! Vuoi installarlo?"
+
+msgid "Do you want to restart the GUI\nto apply the changes?"
+msgstr "Vuoi riavviare la GUI\nper applicare le modifiche?"
+
+msgid "Please be patient"
+msgstr "Si prega di pazientare"
+
+msgid "Download in progress..."
+msgstr "Download in corso..."
+
+msgid "Channel Settings and Picons"
+msgstr "Liste Canali e Picons"
+
+msgid "Last Update: Never"
+msgstr "Ultimo aggiornamento: mai"
+
+msgid "Last Update: "
+msgstr "Ultimo aggiornamento: "
+
+msgid "New V.%s Press INFO to update"
+msgstr "Nuova V.%s Premi INFO per aggiornare"
+
+msgid "Save | Install"
+msgstr "Salva | Installa"
+
+msgid "Select the model:"
+msgstr "Seleziona il modello:"
+
+msgid "Select the destination:"
+msgstr "Seleziona la destinazione:"
+
+msgid "Select the size:"
+msgstr "Seleziona il formato:"
+
+msgid "Select the satellite:"
+msgstr "Seleziona il satellite:"
+
+msgid "Picons DTT Italy"
+msgstr "Picons DTT Italia"
+
+msgid "Select the DTT Italia picons:"
+msgstr "Seleziona i picons DTT Italia"
+
+msgid "All Regions"
+msgstr "Tutte le regioni"
+
+msgid "Show in main menu"
+msgstr "Visualizza nel menu principale"
+
+msgid "* Requires restart of enigma2"
+msgstr "* Richiede il riavvio di enigma2"
+
+msgid "Install Picons: {}\nDestination: {}\nResolution: {}"
+msgstr "Installo i picons: {}\nDestinazione: {}\nRisoluzione: {}"
+
+msgid "Do you want to restart the GUI?"
+msgstr "Vuoi riavviare la GUI?"
+
+msgid "Sorry, there is not any connected devices in your STB.\nPlease connect USB\nand mount it in the /media/usb\nto install the Picons!"
+msgstr "Spiacenti, non ci sono dispositivi collegati nel tuo STB.\nCollega un dispositivo USB\nmontandolo in /media/usb\nper installare i Picons!"
+
+msgid "Sorry, there is not any connected devices in your STB.\nPlease connect HDD\nand mount it in the /media/hdd\nto install the Picons!"
+msgstr "Spiacenti, non ci sono dispositivi collegati nel tuo STB.\nCollega un dispositivo HDD\nmontandolo in /media/hdd\nper installare i Picons!"
+
+msgid "Full Trasparent"
+msgstr "Full Trasparente"
+
+msgid "White Trasparent"
+msgstr "Bianco Trasparente"
+
+msgid "Elegant Black"
+msgstr "Nero Elegante"
+
+msgid "Steel Black"
+msgstr "Nero Acciaio"
+
+msgid "File download error!"
+msgstr "Errore nel scaricare il file!"
+
+msgid "Download successful\n\nDo you want to restart the GUI\nto apply the changes?"
+msgstr "Download completato con successo\n\nVuoi riavviare la GUI\nper applicare le modifiche?"
+
+msgid " installed"
+msgstr " installati"
+
+msgid "\ninstalled !"
+msgstr "\ninstallato!"
+
+msgid "Sorry, cannot download !"
+msgstr "Siamo spiacenti, non è possibile scaricare!"
+
+msgid ""
+"New:\n"
+msgstr ""
+"Nuovo:\n"
+
+msgid ""
+"Old:\n"
+msgstr ""
+"Vecchio\n"
+
+msgid ""
+"Sorry.\n"
+"no internet connection !"
+msgstr ""
+"Scusate.\n"
+"Nessuna connessione internet !"
+
+msgid "Favorites: Yes"
+msgstr "Preferiti: Si"
+
+msgid "Favorites: "
+msgstr "Preferiti: "
+
+msgid "Auto Update: "
+msgstr "Autoaggiornamento: "
+
+msgid "Favorites: No"
+msgstr "Preferiti: No"
+
+msgid "Auto Update: Yes"
+msgstr "Aggiornamento automatico: Si"
+
+msgid "Auto Update: No"
+msgstr "Aggiornamento automatico: no"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "No"
+msgstr "No"
+
+msgid "Auto Update:"
+msgstr "Aggiornamento automatico:"
+
+msgid "Server down for maintenance"
+msgstr "Server inattivo per manutenzione"
+
+msgid ""
+"The new configurations are saved\n"
+"Setting: %s\n"
+"Date: %s\n"
+"The choice is different from the previous\n"
+"Do you want to proceed with the manual upgrade?"
+msgstr ""
+"La nuova configurazione e' stata salvata\n"
+"Setting: %s\n"
+"Data: %s\n"
+"La scelta e' diversa da quella precedente\n"
+"Vuoi procedere con l'aggiornamento manuale?"
+
+msgid ""
+"The new configurations are saved\n"
+"Setting: %s\n"
+"Date: %s \n"
+" The new setting has a more recent date\n"
+"Do you want to proceed with the manual upgrade?"
+msgstr ""
+"La nuova configurazione e' stata salvata\n"
+"Setting: %s\n"
+"Data: %s\n"
+"I nuovi setting hanno una data piu' recente\n"
+"Vuoi procedere con l'aggiornamento manuale?"
+
+msgid "Setting already updated, you want to upgrade anyway?"
+msgstr "I setting sono gia aggiornati, vuoi aggiornarli comunque?"
+
+msgid "RemoveIPK"
+msgstr "Rimuovere IPK"
+
+msgid "Restart E2"
+msgstr "Riavvia Enigma2"
+
+msgid "Please select\nwhat you want\nto keep!"
+msgstr "Si prega di selezionare\ncio che si desidera\nconservare!"
+
+msgid ""
+"It is recommended !!\n"
+"to mount the appropriate device before downloading.\n"
+"Otherwise\n"
+"Press OK to continue"
+msgstr ""
+"ATTENZIONE Raccomandiamo\n"
+"di montare un dispositivo appropriato prima di eseguire il download.\n"
+"In alternativa,\n"
+"Premere OK per continuare"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Select"
+msgstr "Selezionare"
+
+msgid "Install"
+msgstr "Installato"
+
+msgid "Installing addon %s"
+msgstr "Installazione componenti aggiuntivi %s"
+
+msgid "Downloading"
+msgstr "Downloading"
+
+msgid "Download Failed!-Server error:"
+msgstr "Download non riuscito! Errore del server:"
+
+msgid "Download Failed!Unknown Error:%s"
+msgstr "Download fallito! Errore sconosciuto:%s"
+
+msgid "Ipk remove"
+msgstr "Rimuovere Ipk"
+
+msgid "Close"
+msgstr "Uscire"
+
+msgid "UnInstall"
+msgstr "Disinstallare"
+
+msgid "Adv. UnInstall"
+msgstr "Adv. Disinstallare"
+

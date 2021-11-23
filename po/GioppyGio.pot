@@ -1,0 +1,316 @@
+msgid "Exit"
+msgstr ""
+
+msgid ""
+"1) Check the Lan or Wifi connection\n\n"
+"2) Check your internet connection\n\n3) Reopen GioppyGio Panel"
+msgstr ""
+""
+""
+
+msgid "* Remember to restart enigma2"
+msgstr ""
+
+msgid "If there is an update, run it!"
+msgstr ""
+
+msgid "%s: Not Available"
+msgstr ""
+
+msgid "%s: %s, in use: %s%%"
+msgstr ""
+
+msgid "%s: %s Free: %s Used: %s (%s%%)"
+msgstr ""
+
+msgid "%s: %s Used: %s Free: %s"
+msgstr ""
+
+msgid "Installed list:"
+msgstr ""
+
+msgid "Settings & Picons V.%s by GioppyGio"
+msgstr ""
+
+msgid "Picons DTT Italia only in 220x132 and 417x250 format!"
+msgstr ""
+
+msgid "Install update..."
+msgstr "
+
+msgid ""
+"\n"
+"installed!\n"
+"\nDo you want to download the Epg?\nThe download takes place in the background."
+msgstr ""
+""
+""
+""
+
+msgid ""
+"Do you want to download the Epg?\n"
+"The download takes place in the background."
+msgstr ""
+""
+""
+
+msgid "Install Epg Import"
+msgstr ""
+
+msgid "Do you want Restart GUI now ?"
+msgstr ""
+
+msgid "Epg Importer not found! Do you want to install it?"
+msgstr ""
+
+msgid ""
+"Do you want to restart the GUI\n"
+"to apply the changes?"
+msgstr ""
+""
+""
+
+msgid "Please be patient"
+msgstr ""
+
+msgid "Download in progress..."
+msgstr ""
+
+msgid "Channel Settings and Picons"
+msgstr ""
+
+msgid "Last Update: Never"
+msgstr ""
+
+msgid "Last Update: "
+msgstr ""
+
+msgid "New V.%s Press INFO to update"
+msgstr ""
+
+msgid "Save | Install"
+msgstr ""
+
+msgid "Select the model:"
+msgstr ""
+
+msgid "Select the destination:"
+msgstr ""
+
+msgid "Select the size:"
+msgstr ""
+
+msgid "Select the satellite:"
+msgstr ""
+
+msgid "Picons DTT Italy"
+msgstr ""
+
+msgid "Select the DTT Italia picons:"
+msgstr ""
+
+msgid "All Regions"
+msgstr ""
+
+msgid "Show in main menu"
+msgstr ""
+
+msgid "* Requires restart of enigma2"
+msgstr ""
+
+msgid ""
+"Install Picons: {}\n"
+"Destination: {}\n"
+"Resolution: {}"
+msgstr ""
+""
+""
+""
+
+msgid "Do you want to restart the GUI?"
+msgstr ""
+
+msgid ""
+"Sorry, there is not any connected devices in your STB.\n"
+"Please connect USB\n"
+"and mount it in the /media/usb\n"
+"to install the Picons!"
+msgstr ""
+""
+""
+""
+""
+
+msgid ""
+"Sorry, there is not any connected devices in your STB.\n"
+"Please connect HDD\n"
+"and mount it in the /media/hdd\n"
+"to install the Picons!"
+msgstr ""
+""
+""
+""
+""
+
+msgid "Full Trasparent"
+msgstr ""
+
+msgid "White Trasparent"
+msgstr ""
+
+msgid "Elegant Black"
+msgstr ""
+
+msgid "Steel Black"
+msgstr ""
+
+msgid "File download error!"
+msgstr ""
+
+msgid ""
+""Download successful\n\n"
+"Do you want to restart the GUI\n"
+to apply the changes?"
+msgstr ""
+""
+""
+""
+
+msgid " installed"
+msgstr ""
+
+msgid "\ninstalled !"
+msgstr ""
+
+msgid "Sorry, cannot download !"
+msgstr ""
+
+msgid ""
+"New:\n"
+msgstr ""
+"Nuovo:\n"
+
+msgid ""
+"Old:\n"
+msgstr ""
+"Vecchio\n"
+
+msgid ""
+"Sorry.\n"
+"no internet connection !"
+msgstr ""
+"Scusate.\n"
+"Nessuna connessione internet !"
+
+msgid "Favorites: Yes"
+msgstr ""
+
+msgid "Favorites: "
+msgstr ""
+
+msgid "Auto Update: "
+msgstr ""
+
+msgid "Favorites: No"
+msgstr ""
+
+msgid "Auto Update: Yes"
+msgstr ""
+
+msgid "Auto Update: No"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Auto Update:"
+msgstr ""
+
+msgid "Server down for maintenance"
+msgstr ""
+
+msgid ""
+"The new configurations are saved\n"
+"Setting: %s\n"
+"Date: %s\n"
+"The choice is different from the previous\n"
+"Do you want to proceed with the manual upgrade?"
+msgstr ""
+""
+""
+""
+""
+""
+
+msgid ""
+"The new configurations are saved\n"
+"Setting: %s\n"
+"Date: %s \n"
+" The new setting has a more recent date\n"
+"Do you want to proceed with the manual upgrade?"
+msgstr ""
+""
+""
+""
+""
+""
+
+msgid "Setting already updated, you want to upgrade anyway?"
+msgstr ""
+
+msgid "RemoveIPK"
+msgstr ""
+
+msgid "Restart E2"
+msgstr ""
+
+msgid "Please select\nwhat you want\nto keep!"
+msgstr ""
+
+msgid ""
+"It is recommended !!\n"
+"to mount the appropriate device before downloading.\n"
+"Otherwise\n"
+"Press OK to continue"
+msgstr ""
+""
+""
+""
+""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Installing addon %s"
+msgstr ""
+
+msgid "Downloading"
+msgstr ""
+
+msgid "Download Failed!-Server error:"
+msgstr ""
+
+msgid "Download Failed!Unknown Error:%s"
+msgstr ""
+
+msgid "Ipk remove"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "UnInstall"
+msgstr ""
+
+msgid "Adv. UnInstall"
+msgstr ""
+
