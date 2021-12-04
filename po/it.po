@@ -14,7 +14,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "Exit"
-msgstr "Uscire"
+msgstr "Esci"
 
 msgid "1) Check the Lan or Wifi connection\n\n2) Check your internet connection\n\n3) Reopen GioppyGio Panel"
 msgstr "1) Controlla la connessione Lan o Wifi\n\n2) Controlla la tua connessione internet\n\n3) Riapri il plugin GioppyGio"
@@ -139,6 +139,18 @@ msgstr "Nero Elegante"
 msgid "Steel Black"
 msgstr "Nero Acciaio"
 
+msgid "Gold Black"
+msgstr "Nero Oro"
+
+msgid "Image running: %s"
+msgstr "Image in esecusione: %s"
+
+msgid "Model Stb: %s"
+msgstr "Modello Decoder: %s"
+
+msgid "Picons Gold only for satellites:\n\n9%s Est - 13%s Est - 16%s Est - 19%s Est!"
+msgstr "Picons Gold solo per i satelliti:\n\n9%s Est - 13%s Est - 16%s Est - 19%s Est!"
+
 msgid "File download error!"
 msgstr "Errore nel scaricare il file!"
 
@@ -230,9 +242,6 @@ msgstr ""
 msgid "Setting already updated, you want to upgrade anyway?"
 msgstr "I setting sono gia aggiornati, vuoi aggiornarli comunque?"
 
-msgid "RemoveIPK"
-msgstr "Rimuovere IPK"
-
 msgid "Restart E2"
 msgstr "Riavvia Enigma2"
 
@@ -271,15 +280,210 @@ msgstr "Download non riuscito! Errore del server:"
 msgid "Download Failed!Unknown Error:%s"
 msgstr "Download fallito! Errore sconosciuto:%s"
 
-msgid "Ipk remove"
-msgstr "Rimuovere Ipk"
-
 msgid "Close"
-msgstr "Uscire"
+msgstr "Esci"
 
 msgid "UnInstall"
 msgstr "Disinstallare"
 
-msgid "Adv. UnInstall"
-msgstr "Adv. Disinstallare"
+msgid "All"
+msgstr "Tutti"
 
+msgid "Australia generic"
+msgstr "Australia generico"
+
+msgid "Automatic"
+msgstr "Automatico"
+
+msgid "Bandplan"
+msgstr "Banda"
+
+msgid "Cannot allocate the demuxer"
+msgstr "Impossibile allocare il demuxer"
+
+msgid "Cannot free NIM because a recording is in progress"
+msgstr "Registrazione in corso, impossibile effettuare una scansione"
+
+msgid "Cannot get frontend"
+msgstr "Impossibile ottenere il front-end"
+
+msgid "Cannot get the NIM"
+msgstr "Impossibile ottenere la registrazione"
+
+msgid "Cannot retrieve Resource Manager instance"
+msgstr "Impossibile recuperare l'istanza di Resource Manager"
+
+msgid "Channel list ID"
+msgstr "ID elenco canali"
+
+msgid "Clear before scan"
+msgstr "Cancella prima della scansione"
+
+msgid "Country"
+msgstr "Nazione"
+
+msgid "Create separate radio bouquet"
+msgstr "Crea un bouquet radio separato"
+
+msgid "Create terrestrial bouquet"
+msgstr "Crea bouquet terrestre"
+
+msgid "Create terrestrial.xml file"
+msgstr "Crea il file terrestrial.xml"
+
+msgid "Enter channel list ID used in your area. If you are not sure enter zero."
+msgstr "Inserisci l'ID dell'elenco dei canali utilizzati nella tua zona. Se non sei sicuro, inserisci zero."
+
+msgid "Enter the original network ID (ONID) of the multiplexes you wish to restrict the search to. GB terrestrial television normally ONID \"9018\"."
+msgstr "Immettere l'ID di rete originale (ONID) dei multiplex a cui si desidera limitare la ricerca. La televisione terrestre del GB normalmente ONID \"9018\"."
+
+#, python-format
+msgid "Found %d unique transponders"
+msgstr "Trovati %d transponder"
+
+msgid "Found %d unique transponder"
+msgstr "Trovato %d transponder"
+
+#, python-format
+msgid "Found %d multiple transponders"
+msgstr "Trovati %d molteplici transponders"
+
+msgid "From XML"
+msgstr "Da XML"
+
+msgid "If you select \"yes\" all stored terrestrial channels will be deleted before starting the current search."
+msgstr "Se si seleziona \"si\" tutti i canali terrestri memorizzati verranno eliminati prima di iniziare la ricerca corrente."
+
+msgid "If you select \"yes\" and LCNs are found in the NIT, the scan will create a bouquet of terrestrial channels in LCN order and add it to the bouquet list."
+msgstr "Se selezioni \"si\" e gli LCN vengono trovati nel NIT, la scansione creerà un bouquet di canali terrestri nell'ordine LCN e lo aggiungerà all'elenco dei bouquet."
+
+msgid "If you select \"yes\" and radio services are fond these will be place in a separate bouquet. Otherwise TV and radio services will be placed in a combined bouquet."
+msgstr "Se selezioni \"si\" e i servizi radio sono preferiti, questi verranno inseriti in un bouquet separato. In caso contrario, i servizi TV e radio verranno inseriti in un bouquet combinato."
+
+msgid "If you select \"yes\" the scan will only save channels that are not encrypted; \"no\" will find encrypted and non-encrypted channels."
+msgstr "Se selezioni \"si\" la scansione salverà solo i canali non crittografati; \"no\" troverà i canali crittografati e non crittografati."
+
+msgid "LCN Descriptor"
+msgstr "Descrittore LCN"
+
+msgid "MakeBouquet"
+msgstr "Crea Bouquet"
+
+msgid "Making bouquet..."
+msgstr "Crea il bouquet..."
+
+msgid "Most transmitters in European countries only have TV channels in the UHF band. Select \"From XML\" to access bandplans that are preloaded on the device."
+msgstr "La maggior parte dei trasmettitori nei paesi europei ha solo canali TV nella banda UHF. Seleziona \"Da XML\" per accedere ai piani di banda precaricati sul dispositivo."
+
+msgid "No frequencies to search"
+msgstr "Nessuna frequenza da cercare"
+
+msgid "No terrestrial tuner found"
+msgstr "Nessun tuner terrestre trovato"
+
+msgid "No transponders to read"
+msgstr "Nessun transponder da leggere"
+
+msgid "No valid NIM found for terrestrial"
+msgstr "Nessun NIM valido trovato per terrestre"
+
+msgid "ONID to search"
+msgstr "ONID da cercare"
+
+msgid "Only free scan"
+msgstr "Solo canali in chiaro"
+
+msgid "Period of time to wait for the tuner to stabalise before taking a signal quality reading. 2 seconds is good for most hardware but some may require longer."
+msgstr "Tempo di attesa che il tuner utilizza prima di eseguire una lettura della qualità del segnale. 2 secondi vanno bene per la maggior parte dei decoder, alcuni potrebbero richiedere più tempo."
+
+#, python-format
+msgid "Reading %s MHz (ch %s)"
+msgstr "Lettura %s MHz (canale %s)"
+
+#, python-format
+msgid "Reading SI tables on %s MHz"
+msgstr "Lettura delle tabelle su %s MHz"
+
+msgid "Reading streams"
+msgstr "Lettura dei flussi"
+
+msgid "Do you really close without saving settings?"
+msgstr "Vuoi davvero chiudere senza salvare le impostazioni?"
+
+msgid "Region"
+msgstr "Regioni"
+
+msgid "Restrict search to single ONID"
+msgstr "Limita la ricerca al singolo ONID"
+
+msgid "Scan"
+msgstr "Cerca canali"
+
+msgid "Scanning for active transponders"
+msgstr "Scansione per transponder attivi"
+
+msgid "Select \"Yes\" to restrict the search to multiplexes that belong to a single original network ID (ONID). Select \"No\" to search all ONIDs."
+msgstr "Selezionare \"Sì\" per limitare la ricerca ai multiplex che appartengono a un unico ID di rete originale (ONID). Seleziona \"No\" per cercare tutti gli ONID."
+
+msgid "Select \"yes\" to create a custom terrestrial.xml file and install it in /etc/enigma2 for system scans to use."
+msgstr "Selezionare \"si\" per creare un file terrestrial.xml personalizzato e installarlo in /etc/enigma2 per le scansioni del sistema da utilizzare."
+
+msgid "Select a tuner that is configured for terrestrial scans. \"Automatic\" will pick the highest spec available tuner."
+msgstr "Selezionare un tuner configurato per la scansione terrestre. \"Automatico\" sceglierà il tuner con le specifiche più elevate disponibile."
+
+msgid "Select the LCN descriptor used in your area. 0x83 is the default DVB standard descriptor. 0x87 is used in some Scandinavian countries."
+msgstr "Seleziona il descrittore LCN utilizzato nella tua zona. 0x83 è il descrittore standard DVB predefinito. 0x87 è utilizzato in alcuni paesi scandinavi."
+
+msgid "Select your country. If not available select 'all'."
+msgstr "Seleziona il tuo paese. Se non disponibile seleziona 'tutto'."
+
+msgid "Select your region. If not available change 'Country' to 'all' and select one of the default alternatives."
+msgstr "Seleziona la tua regione. Se non è disponibile, cambia 'Paese' in 'tutto' e seleziona una delle alternative predefinite."
+
+msgid "Selected tuner is not configured"
+msgstr "Il tuner selezionato non è configurato"
+
+msgid "Signal quality stabisation time (secs)"
+msgstr "Tempo di stabilizzazione della qualità del segnale (sec)"
+
+msgid "Starting scanner"
+msgstr "Comincia scansione"
+
+msgid "Starting search..."
+msgstr "Inizio ricerca..."
+
+#, python-format
+msgid "TSID: %d, ONID: %d"
+msgstr "TSID: %d, ONID: %d"
+
+msgid "DTTerrestrial LCN"
+msgstr "DTTerrestrial LCN"
+
+msgid "Terrestrial Scan"
+msgstr "Scansione Terrestre"
+
+msgid "TerrestrialScan"
+msgstr "ScansioneTerrestre"
+
+msgid "Tuner"
+msgstr "Tuner"
+
+#, python-format
+msgid "Tuning %s MHz"
+msgstr "Sintonizzazione %s MHz"
+
+#, python-format
+msgid "Tuning %s MHz (ch %s)"
+msgstr "Sintonizzazione %s MHz (canale %s)"
+
+msgid "UHF Europe"
+msgstr "UHF Europa"
+
+msgid "UHF/VHF Europe"
+msgstr "UHF/VHF Europa"
+
+msgid "GioppyGio - Service scan"
+msgstr "GioppyGio - Ricerca canali"
+
+msgid "DTTerrestrial LCN bouquet successfully created.\n\nDo you want to download the Epg?\nThe download takes place in the background."
+msgstr "Bouquet - DTTerrestrial LCN creato con successo.\n\nVuoi effettuare il download degli Epg?\nIl download avviene in background."
