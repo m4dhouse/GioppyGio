@@ -487,3 +487,18 @@ msgstr "GioppyGio - Ricerca canali"
 
 msgid "DTTerrestrial LCN bouquet successfully created.\n\nDo you want to download the Epg?\nThe download takes place in the background."
 msgstr "Bouquet - DTTerrestrial LCN creato con successo.\n\nVuoi effettuare il download degli Epg?\nIl download avviene in background."
+
+msgid "Delete Picons"
+msgstr "Elimina i Picons"
+
+msgid "Do you want to delete all picons\n\nModel: {}\nDestination: {}\nResolution: {}"
+msgstr "Vuoi eliminare tutti i picons\n\nModello: {}\nDestinazione: {}\nRisoluzione: {}"
+
+msgid "You don't have any picons installed!"
+msgstr "Non hai nessun picons installato!"
+
+msgid "Delete all picons..."
+msgstr "Cancello tutti i picons"
+
+msgid "Picons\n\nModel: {}\nDestination: {}\nResolution: {}\nremoved!"
+msgstr "Picons\n\nModel: {}\nDestination: {}\nResolution: {}\neliminati!"
