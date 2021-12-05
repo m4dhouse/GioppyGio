@@ -520,3 +520,26 @@ msgstr ""
 
 msgid "DTTerrestrial LCN bouquet successfully created.\n\nDo you want to download the Epg?\nThe download takes place in the background."
 msgstr ""
+
+msgid "Delete Picons"
+msgstr ""
+
+msgid ""
+"Do you want to delete all picons\n"
+"\nModel: {}\nDestination: {}\nResolution: {}"
+msgstr ""
+""
+""
+
+msgid "You don't have any picons installed!"
+msgstr ""
+
+msgid "Delete all picons..."
+msgstr ""
+
+msgid ""
+"Picons\n"
+"\nModel: {}\nDestination: {}\nResolution: {}\nremoved!"
+msgstr ""
+""
+""
